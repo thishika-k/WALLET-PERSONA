@@ -46,7 +46,7 @@ Coming Soon...
    - 🧑‍🤝‍🧑 *DAO Member*: DAO-related contracts
    - 🆕 *Newbie*: Low activity
    - ⚠️ *Risky*: Suspicious or volatile tokens
-4. *Generate Profile**:
+4. **Generate Profile**:
    - AI-written bio
    - Visual graphs
    - Behavior breakdown
